@@ -1,0 +1,18 @@
+# Questa / ModelSim (generated every run)
+work/
+transcript
+*.wlf
+modelsim.ini
+
+# Quartus (for Phase 5)
+db/
+incremental_db/
+output_files/
+simulation/
+*.qws
+*.bak
+
+# Editor / OS
+.vscode/
+Thumbs.db
+desktop.ini
